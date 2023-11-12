@@ -17,3 +17,4 @@
 
 // Autres opérateurs
 
+//parenthèses prioritaires, puis les divisions/multiplications, puis les sommes/différences

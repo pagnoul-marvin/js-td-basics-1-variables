@@ -22,3 +22,20 @@
 // - contenir de caractères spéciaux
 // - être un mot réservé du langage
 
+const firstName = 'John';
+
+console.log(`Son nom est ${firstName}`);
+
+const lastName = 'Smith';
+
+const yourAge = 28;
+
+const fullAge = true;
+
+console.log(`${fullAge}`);
+
+const job = 'Enseignant';
+
+console.log(`John est ${job}`);
+
+

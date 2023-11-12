@@ -29,3 +29,21 @@
 
 // Opérateur typeof
 
+
+const now = 2019;
+const ageJohn = 28;
+const ageMark = 33;
+const yearJohn = now - ageJohn;
+const yearMark = now - ageMark;
+
+console.log(`John est né en ${yearJohn}`);
+console.log(`Mark est né en ${yearMark}`);
+
+const now2 = now + 2;
+const now3 = now * 2;
+const now4 = now / 10;
+
+console.log(`${now2}`);
+console.log(`${now3}`);
+console.log(`${now4}`);
+
